@@ -1,7 +1,7 @@
 # MIPT Wastaken
 
 ## About Me
-Master's graduate at MIPT and RANEPA, specializing in Machine Learning, Deep Learning, and Artificial Intelligence. Passionate about solving complex problems and making data-driven decisions.
+Master's student at MIPT, specializing in Machine Learning, Deep Learning, and Artificial Intelligence. Passionate about solving complex problems and making data-driven decisions.
 
 ### More About Me
 Skilled in mathematical disciplines with a strong foundation in Python and C++. I enjoy collaborating on innovative projects and continuously improving my technical skills.
