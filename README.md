@@ -1,4 +1,4 @@
-# MIPT Wastaken
+# David D
 
 ## About Me
 Master's student at MIPT, specializing in Machine Learning, Deep Learning, and Artificial Intelligence. Passionate about solving complex problems and making data-driven decisions.
